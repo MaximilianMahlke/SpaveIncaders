@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 20
-  productGUID: 9785b386962486d468b2b60030e2f934
+  productGUID: 6086ee1905caa62468a85550c0ba9727
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: VersionControl
+  productName: SpaveIncaders
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -119,11 +119,11 @@ PlayerSettings:
   vulkanEnableSetSRGBWrite: 0
   vulkanEnableLateAcquireNextImage: 0
   m_SupportedAspectRatios:
-    4:3: 1
-    5:4: 1
-    16:10: 1
+    4:3: 0
+    5:4: 0
+    16:10: 0
     16:9: 1
-    Others: 1
+    Others: 0
   bundleVersion: 0.1
   preloadedAssets: []
   metroInputSource: 0
@@ -661,9 +661,9 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: e5058408-f486-476b-8d75-d43bbe0d14ed
+  cloudProjectId: 44a33823-9b77-42ae-b2f5-b0fb5b6cdf37
   framebufferDepthMemorylessMode: 0
-  projectName: VersionControl
+  projectName: SpaveIncaders
   organizationId: maxelfoley
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
